@@ -11,7 +11,7 @@ Aprendi nesse projeto a criar uma API Restful com o TypeScript e JWT.
 
 ## Stack utilizada
 
-**Back-End:** Express.js, TypeScript, Node.js, MySql e JWT.
+**Back-End:** Express.js, Sequelize, TypeScript, Node.js, MySql e JWT.
 
 
 ## Instalação
