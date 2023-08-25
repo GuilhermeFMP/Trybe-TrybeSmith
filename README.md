@@ -19,8 +19,8 @@ Aprendi nesse projeto a criar uma API Restful com o TypeScript e JWT.
 Instalação com NPM
 
 ```bash
-  git clone git@github.com:GuilhermeFMP/TrybeSmith.git
-  cd TrybeSmith
+  git clone git@github.com:GuilhermeFMP/Trybe-TrybeSmith.git
+  cd Trybe-TrybeSmith
   npm install
 ```
     
